@@ -19,4 +19,5 @@ export function App() {
         </p>
     </div>
 }
+
 document.body.append(App())
